@@ -1,1 +1,1 @@
-# BYJUs_Project_24
+# 24-archery
